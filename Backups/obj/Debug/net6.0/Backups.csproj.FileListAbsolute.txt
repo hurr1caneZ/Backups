@@ -1,0 +1,12 @@
+C:\Users\sdc_a\RiderProjects\hurr1caneZ\Lab3\Backups\bin\Debug\net6.0\Backups.deps.json
+C:\Users\sdc_a\RiderProjects\hurr1caneZ\Lab3\Backups\bin\Debug\net6.0\Backups.dll
+C:\Users\sdc_a\RiderProjects\hurr1caneZ\Lab3\Backups\bin\Debug\net6.0\Backups.pdb
+C:\Users\sdc_a\RiderProjects\hurr1caneZ\Lab3\Backups\obj\Debug\net6.0\Backups.csproj.AssemblyReference.cache
+C:\Users\sdc_a\RiderProjects\hurr1caneZ\Lab3\Backups\obj\Debug\net6.0\Backups.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdc_a\RiderProjects\hurr1caneZ\Lab3\Backups\obj\Debug\net6.0\Backups.AssemblyInfoInputs.cache
+C:\Users\sdc_a\RiderProjects\hurr1caneZ\Lab3\Backups\obj\Debug\net6.0\Backups.AssemblyInfo.cs
+C:\Users\sdc_a\RiderProjects\hurr1caneZ\Lab3\Backups\obj\Debug\net6.0\Backups.csproj.CoreCompileInputs.cache
+C:\Users\sdc_a\RiderProjects\hurr1caneZ\Lab3\Backups\obj\Debug\net6.0\Backups.dll
+C:\Users\sdc_a\RiderProjects\hurr1caneZ\Lab3\Backups\obj\Debug\net6.0\refint\Backups.dll
+C:\Users\sdc_a\RiderProjects\hurr1caneZ\Lab3\Backups\obj\Debug\net6.0\Backups.pdb
+C:\Users\sdc_a\RiderProjects\hurr1caneZ\Lab3\Backups\obj\Debug\net6.0\ref\Backups.dll
